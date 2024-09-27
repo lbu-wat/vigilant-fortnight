@@ -1,6 +1,6 @@
 # WAT 2024 Introduction Repository
 
-## TYPE YOUR NAME HERE
+## Tony Jenkins
 ## TYPE YOUR STUDENT ID
 
 By submitting this work you are confirming that the work in this repo is your own, with all credit given to any sources of help.
